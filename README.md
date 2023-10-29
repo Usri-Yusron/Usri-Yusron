@@ -1,19 +1,36 @@
-### Hi there 👋
+# Halo, Saya Usri yusron 👋
 
-<!--
-{IND};
-halo semua apa kabar, perkenalkan saya muhamad yusron, kalian bisa memanggil saya cukup dengan yusron aja 
-saya lulusan institut teknologi nasional bandung (itenas) dari jurusan informatika
-di github ini saya ingin berbagi ilmu yang selama ini telah saya peroleh ketika saya masih kuliah dulu
+Selamat datang di profil GitHub saya. Saya seorang web developent, dengan minat khusus di front-end. Saya senang berkontribusi pada komunitas pengembang dan terus belajar dalam perjalanan saya.
 
-semoga apa yang saya telah saya share disini dapat bermanfaat bagi para programmer indonesia khususnya, karena
-saya disini pun masih dalam rangka terus belajar, mari kita sama-sama belajar untuk menjadi lebih baik.
+## 🚀 Proyek Utama
 
-{eng};
-halo everyone, how are you, im muhamad yusron, you can just call me yusron
-i graduated from national institute of technology banfung (itenas) majoring informatics
-on this github i want to share the kwnowledge that i i have acquired so far when i was in college
+Beberapa proyek yang telah saya kerjakan:
 
-i hope that what i shared here can be of use to indonesian programmer in particular, because
-im still here in the context of continuing of learning, let's learn together to be better. 
--->
+- personal web (https://usri-yusron.github.io/portfolio/) 🌏: Website yang saya buat untuk menaruh sertifikat kompetensi dan code program yang telah saya buat.
+- web admin untuk PDAM: Website CRUD yang saya buat untuk menyelesaikan tugas UTS menggunakan PHP native.
+- Website kalkulator sederahana: web yang saya buat pertama kali dalam belajar web development menggunakan html, css, dan js sederhana.
+
+Jangan ragu untuk menjelajahi proyek-proyek saya!
+
+## 🌱 Sedang Dipelajari
+
+Saat ini, saya sedang belajar dan mengembangkan keahlian di:
+
+- javascript
+- laravel
+- react.js
+
+## 📫 Cara Menghubungi Saya
+
+Anda dapat menghubungi saya melalui [Email Anda] atau melalui akun media sosial berikut:
+
+- [Instagram](https://instagram.com/usriyusron.js?igshid=YTQwZjQ0NmI0OA==)
+- [LinkedIn](http://www.linkedin.com/in/muhamad-usriyusron)
+- [Website Pribadi](https://usri-yusron.github.io/portfolio/)
+
+## 🤝 Kontribusi
+
+Saya senang berkontribusi dalam berbagai proyek open source. Anda juga bisa melihat kontribusi saya di repositori publik saya. Jangan ragu untuk menghubungi saya jika Anda ingin berkolaborasi atau memiliki ide proyek!
+
+
+Terima kasih telah mengunjungi profil saya. Saya selalu terbuka untuk berbicara, berkolaborasi, atau menjawab pertanyaan Anda. Ayo terhubung! 😊
