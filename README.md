@@ -22,7 +22,7 @@ Saat ini, saya sedang belajar dan mengembangkan keahlian di:
 
 ## 📫 Cara Menghubungi Saya
 
-Anda dapat menghubungi saya melalui [Email Anda] atau melalui akun media sosial berikut:
+Anda dapat menghubungi saya melalui muhamad.usriyusron@gmail.com atau melalui akun media sosial berikut:
 
 - [Instagram](https://instagram.com/usriyusron.js?igshid=YTQwZjQ0NmI0OA==)
 - [LinkedIn](http://www.linkedin.com/in/muhamad-usriyusron)
