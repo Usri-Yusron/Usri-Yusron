@@ -26,7 +26,7 @@ Anda dapat menghubungi saya melalui muhamad.usriyusron@gmail.com atau melalui ak
 
 - [Instagram](https://instagram.com/usriyusron.js?igshid=YTQwZjQ0NmI0OA==)
 - [LinkedIn](http://www.linkedin.com/in/muhamad-usriyusron)
-- [Website Pribadi](https://usri-yusron.github.io/portfolio/)
+- [Website Pribadi](https://usriyusron.my.id)
 
 ## 🤝 Kontribusi
 
