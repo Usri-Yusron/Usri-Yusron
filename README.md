@@ -6,7 +6,7 @@ Selamat datang di profil GitHub saya. Saya seorang web developent, dengan minat 
 
 Beberapa proyek yang telah saya kerjakan:
 
-- personal web (https://usri-yusron.github.io/portfolio/) 🌏: Website yang saya buat untuk menaruh sertifikat kompetensi dan code program yang telah saya buat.
+- personal web (https://usriyusron.my.id/) 🌏: Website yang saya buat untuk menaruh sertifikat kompetensi dan code program yang telah saya buat.
 - web admin untuk PDAM: Website CRUD yang saya buat untuk menyelesaikan tugas UTS menggunakan PHP native.
 - Website kalkulator sederahana: web yang saya buat pertama kali dalam belajar web development menggunakan html, css, dan js sederhana.
 
